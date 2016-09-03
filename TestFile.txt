@@ -1,0 +1,25 @@
++-------------+
+|  TEST FILE  |
++-------------+
+
+-Upper Alphabet
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+-Lower Alphabet
+abcdefghijklmnopqrstuvwxyz
+
+-Numerics
+0123456789
+
+-Symbols
+!"£$%^&*_-+=`¬
+{}[]()<>
+|\/?.,;:'@#~
+
+-Phrases
+Hello, World!
+The quick brown fox jumps over the lazy dog.
+A,B,C, 1,2,3, Doh, Ray, Me.
+06:29:17 PM GMT
+2014.03.23
+Thunderbirds Are Go!
