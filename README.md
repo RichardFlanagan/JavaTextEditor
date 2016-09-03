@@ -21,7 +21,7 @@ A selection of tools is included in BetterText. These include:
 - Line Counter and Word Counter – Counts the current file’s words or lines, displaying them to the user in a dialog box.
 - Add Time and Add Date – Prints the time or date to the file at the user’s caret (pointer) in the standard ISO8601 format.
 - To Uppercase and To Lowercase – Converts the selected text or the entire file to upper or lower case.
-- Encrypt and Decrypt – Encrypts or decrypts the current file according to the supplied seed and .bte file (see encryption on next page).
+- Encrypt and Decrypt – Encrypts or decrypts the current file according to the supplied seed and .bte file (see encryption on next page. Note: Not secure in the least. more of a cypher than full encryption.).
 - Line Wrap – Toggles line wrap. When off, text will not wrap to the next line when it passes the text window boundary.
 - Debug Mode – When active, prints out all experienced exceptions stack traces. Otherwise, prints short warnings to the console.
 
